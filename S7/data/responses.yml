@@ -1,0 +1,5 @@
+# data/responses.yml
+
+responses:
+  utter_greet:
+    - text: "Bonjour ! Comment puis-je vous aider ?"
